@@ -1,5 +1,5 @@
 
-csc413-TankGame-Team08
+csc413-TankGame-Team09
 Player 1 Controls
 W -> move up
 A -> rotate left
@@ -18,6 +18,7 @@ Open NetBeans and create a new Java Project with existing sources, give it a nam
 Set the working directory to the root of the repo
 Run the program
 Make sure you have Java Version 9.0.4
-Sound effects obtained from https://www.zapsplat.com:
+Sound effects obtained from
+https://www.zapsplat.com:
 Game tone, block, negative
 Game tone, negative buzz
